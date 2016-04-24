@@ -1,35 +1,31 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-04-24T20:33:26.403Z'
+datePublished: '2016-04-24T20:33:52.461Z'
 hasPage: true
+inFeed: true
 inNav: false
-inLanguage: null
 keywords: []
+publisher: {}
+title: Piccolo Spazio Pubblicità
 description: Non abbiamo più niente da dirci.
-datePublished: '2016-04-24T18:20:10.022Z'
-dateModified: '2016-04-24T18:15:04.667Z'
-title: ''
 author: []
+starred: false
 sourcePath: _posts/2016-04-24-non-abbiamo-piu-niente-da-dirci.md
 published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 url: non-abbiamo-piu-niente-da-dirci/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a455235b4cfe393983d30bdd92c73100cad6b05.jpg)
+
 Non abbiamo più niente da dirci.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/419b73b6-1f14-4205-88a3-1f8c289904d0.jpg)
 
 Ne abbiamo passate tante.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3777ebe-d540-45b1-a9b5-58b609cea791.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4136760fee528227d520583b610c1d795d48705.jpg)
 
 Ossessivo compulsivo.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b3c08b-ebf1-4e5f-b5d1-627afa7f85cf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eefdf36239c95acf86ff0399c8299f61c5c2d56e.jpg)
 
 Le trasmissioni riprenderanno al più presto possibile.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/791b1551-7036-48d7-9d48-8a8e86c876cb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32ab4d90aeea97e56da0c0f5eec3c053428d0ea3.jpg)
