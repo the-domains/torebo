@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Non abbiamo più niente da dirci.
-datePublished: '2016-04-24T18:14:55.713Z'
-dateModified: '2016-04-24T18:14:17.936Z'
+datePublished: '2016-04-24T18:20:10.022Z'
+dateModified: '2016-04-24T18:15:04.667Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-non-abbiamo-piu-niente-da-dirci.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-non-abbiamo-piu-niente-da-dirci.md
-published: true
 url: non-abbiamo-piu-niente-da-dirci/index.html
 _type: Article
 
