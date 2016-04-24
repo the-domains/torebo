@@ -1,0 +1,28 @@
+name: TOREBO
+favicon: null
+layout_spectrum: 0.7710971974302083
+typography_spectrum: 0.9773415776435286
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6649317473638803
+  lightness: 0.7222576828207821
+  saturation: 0.2469914339017123
+  rhythmicContrast: 0.22574459691531956
+purpose: []
