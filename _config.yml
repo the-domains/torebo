@@ -1,7 +1,7 @@
 name: TOREBO
 favicon: null
-layout_spectrum: 0.7710971974302083
-typography_spectrum: 0.9773415776435286
+layout_spectrum: 0.73403
+typography_spectrum: 0.72534
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.6649317473638803
   lightness: 0.7222576828207821
   saturation: 0.2469914339017123
-  rhythmicContrast: 0.22574459691531956
+  rhythmicContrast: 0.25
 purpose: []
