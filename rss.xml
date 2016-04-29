@@ -4,21 +4,21 @@
         <description><![CDATA[Salvatore Bongiorno]]></description>
         <link>https://thegrid.ai/torebo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 20:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 10:39:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/torebo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Piccolo Spazio Pubblicità]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4136760fee528227d520583b610c1d795d48705.jpg">]]></description>
+            <link>https://thegrid.ai/torebo/non-abbiamo-piu-niente-da-dirci/index.html</link>
+            <guid isPermaLink="false">40b41455-e4ba-4f61-b4eb-99d8cde0b691</guid>
+            <pubDate>Fri, 29 Apr 2016 10:38:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rosario]]></title>
             <description><![CDATA[<article><h1>Rosario</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1463c7f091618d628670329b5a3b51d7809ac1dd.jpg"></article>]]></description>
             <link>https://thegrid.ai/torebo/rosario/index.html</link>
             <guid isPermaLink="false">8fc1db62-d68d-4f52-9c26-7b5146d0a8ea</guid>
             <pubDate>Sun, 24 Apr 2016 20:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piccolo Spazio Pubblicità]]></title>
-            <description><![CDATA[<article><h1>Piccolo Spazio Pubblicità</h1><p>Non abbiamo più niente da dirci.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a455235b4cfe393983d30bdd92c73100cad6b05.jpg"></article>]]></description>
-            <link>https://thegrid.ai/torebo/non-abbiamo-piu-niente-da-dirci/index.html</link>
-            <guid isPermaLink="false">40b41455-e4ba-4f61-b4eb-99d8cde0b691</guid>
-            <pubDate>Sun, 24 Apr 2016 20:33:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
