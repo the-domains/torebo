@@ -4,8 +4,15 @@
         <description><![CDATA[Salvatore Bongiorno]]></description>
         <link>https://thegrid.ai/torebo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 10:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 08:08:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/torebo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b5c9f2c-490b-4aee-991f-af4a730245f7.jpg">]]></description>
+            <link>https://thegrid.ai/torebo/218fa865-31e0-445c-92e7-c039cef31874/index.html</link>
+            <guid isPermaLink="false">218fa865-31e0-445c-92e7-c039cef31874</guid>
+            <pubDate>Thu, 26 May 2016 08:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Piccolo Spazio Pubblicità]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4136760fee528227d520583b610c1d795d48705.jpg">]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Rosario]]></title>
-            <description><![CDATA[<article><h1>Rosario</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1463c7f091618d628670329b5a3b51d7809ac1dd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Rosario</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c5c41a74d8c2f5629b3bc1d90fc72efcea66880.jpg"></article>]]></description>
             <link>https://thegrid.ai/torebo/rosario/index.html</link>
             <guid isPermaLink="false">8fc1db62-d68d-4f52-9c26-7b5146d0a8ea</guid>
             <pubDate>Sun, 24 Apr 2016 20:34:29 GMT</pubDate>
