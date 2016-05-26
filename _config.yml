@@ -1,7 +1,7 @@
 name: TOREBO
 favicon: null
-layout_spectrum: 0.23129
-typography_spectrum: 0.88853
+layout_spectrum: 0.25205
+typography_spectrum: 0.54902
 title: Salvatore Bongiorno
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#7e7e7e'
     - '#bebebe'
     - '#fefefe'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
